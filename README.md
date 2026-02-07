@@ -65,7 +65,7 @@ The Power BI dashboard presents:
 - Customer distribution by segment
 - Revenue contribution by customer segment
 
-
+![Customer Segmentation Dashboard](screenshots/dashboard.png)
 
 ---
 
@@ -76,7 +76,7 @@ customer-segmentation-rfm/
 ├── README.md
 │
 ├── data/
-│   └── raw/
+│   └── RAWDATA/
 │       ├── README.md
 │       └── online_retail_II.zip
 │
@@ -87,8 +87,9 @@ customer-segmentation-rfm/
 │
 ├── powerbi/
 │   ├── README.md
-│   └── Customer_Segmentation_RFM.pbix
+│   └── Customer Segmentation & Revenue Analysis (RFM).pbix
 
+```
 
 ---
 
