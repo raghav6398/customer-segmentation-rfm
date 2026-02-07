@@ -65,7 +65,6 @@ The Power BI dashboard presents:
 - Customer distribution by segment
 - Revenue contribution by customer segment
 
-![Customer Segmentation Dashboard](screenshots/dashboard.png)
 
 ---
 
