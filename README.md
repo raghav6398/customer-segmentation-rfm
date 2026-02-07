@@ -72,15 +72,23 @@ The Power BI dashboard presents:
 ## Repository Structure
 ```
 customer-segmentation-rfm/
+│
 ├── README.md
+│
+├── data/
+│   └── raw/
+│       ├── README.md
+│       └── online_retail_II.zip
+│
 ├── sql/
+│   ├── README.md
 │   ├── rfm_base.sql
-│   ├── rfm_segmentation.sql
+│   └── rfm_scoring.sql
+│
 ├── powerbi/
-│   └── rfm_dashboard.pbix
-├── screenshots/
-│   └── dashboard.png
-```
+│   ├── README.md
+│   └── Customer_Segmentation_RFM.pbix
+
 
 ---
 
